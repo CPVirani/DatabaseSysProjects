@@ -1,7 +1,4 @@
-embeddedSQL
-===========
-
-This is a course project for CS 480: Database Systems class. Task was to write a java program and interface it with MySQL database using JDBC.
+This is a java program interfacing with MySQL database using JDBC.
 
 
 The usename and password to connect to the MYSQL should be
